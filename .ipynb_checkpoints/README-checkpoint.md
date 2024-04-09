@@ -34,5 +34,5 @@ Furthermore, I conducted validation checks on the PyChain ledger, ensuring the a
 Additionally, the application featured a block inspector, allowing for detailed examination of individual blocks within the ledger.
 
 ![Block Inspectorsnip](Images/blockinfo.png)
-![Block Inspector Interface](Images/byblock.png)
+![Block Inspector Interface](Images/pyblock.png)
 
