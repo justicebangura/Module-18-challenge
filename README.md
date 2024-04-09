@@ -29,8 +29,10 @@ Through the application, I added new blocks and stored transaction records withi
 Furthermore, I conducted validation checks on the PyChain ledger, ensuring the accuracy and integrity of stored data.
 
 ![Validation Interface](Images/Validate.png)
+![Validation Terminal](Images/Validchain.png)
 
 Additionally, the application featured a block inspector, allowing for detailed examination of individual blocks within the ledger.
 
-![Block Inspector Interface](Images/Blockinfo.png)
+![Block Inspectorsnip](Images/Blockinfo.png)
+![Block Inspector Interface](Images/pyblock.png)
 
