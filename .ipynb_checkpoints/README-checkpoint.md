@@ -24,15 +24,15 @@ I utilized the streamlit open-source Python library to create an interactive and
 
 Through the application, I added new blocks and stored transaction records within the PyChain ledger. Each transaction included sender, receiver, and amount details, providing a comprehensive view of financial activities.
 
-![Add Block Interface](Images/Addblock.png)
+![Add Block Interface](Images/addblock.png)
 
 Furthermore, I conducted validation checks on the PyChain ledger, ensuring the accuracy and integrity of stored data.
 
-![Validation Interface](Images/Validate.png)
-![Validation Terminal](Images/Validchain.png)
+![Validation Interface](Images/validate.png)
+![Validation Terminal](Images/validchain.png)
 
 Additionally, the application featured a block inspector, allowing for detailed examination of individual blocks within the ledger.
 
-![Block Inspectorsnip](Images/Blockinfo.png)
-![Block Inspector Interface](Images/pyblock.png)
+![Block Inspectorsnip](Images/blockinfo.png)
+![Block Inspector Interface](Images/byblock.png)
 
